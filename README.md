@@ -133,9 +133,6 @@ Summary:
 | Copilot  | Zero-shot        | 3        | 3         | 3          | 5     | 4  | 18          |
 | Copilot  | Few-shot         | 4        | 4         | 4          | 4     | 4  | 20          |
 
-### PICTORIAL GRAPH
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/223662a6-cf71-409a-b2c1-8e723b13dfde" />
-
 
 
 > **Best Performing Combination:**
