@@ -135,5 +135,3 @@ Summary:
 
 
 
-> **Best Performing Combination:**
-> **Claude + Role-based Prompting** and **ChatGPT + Few-shot Prompting** both scored **24/25**, showing high effectiveness in summarizing complex content in a simple and structured way for undergraduates.
