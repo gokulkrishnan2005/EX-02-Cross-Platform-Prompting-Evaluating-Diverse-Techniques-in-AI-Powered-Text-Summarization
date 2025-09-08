@@ -149,7 +149,9 @@ Applications: Finance (cross-border payments), supply chain tracking, healthcare
 Challenges: Scalability, energy usage, regulatory uncertainty, privacy issues, permanent incorrect data.
 
 Conclusion: Blockchain has disruptive potential but needs improvements in scalability, regulation, and efficiency for broader adoption.
+```
 ### Chain of Thoughts
+```
 Blockchain is a decentralized, distributed ledger that records transactions securely and transparently without central control. It links transaction data in blocks using cryptography, ensuring immutability and security. Transactions are verified through consensus mechanisms like Proof of Work or Proof of Stake before being permanently added to the chain.
 
 Its applications go beyond cryptocurrencies, including finance (cross-border payments), supply chain tracking, healthcare records, voting systems, and smart contracts. Despite its advantages, blockchain faces challenges such as scalability, high energy use, regulatory uncertainty, and data privacy concerns.
@@ -158,11 +160,11 @@ Overall, blockchain has transformative potential but requires improvements in ef
 ```
 ### Role based
 ```
-Think of blockchain as a digital notebook that everyone in a group shares, but no one can erase or secretly change. Instead of one person keeping the notebook, copies are spread across many computers, making it very secure and transparent. Each page (called a “block”) records transactions, and once it’s written, it’s locked in place with cryptography.
+Blockchain is like a shared digital notebook that no single person controls. Every entry, once written, is permanent, transparent, and secured with cryptography, making it very hard to cheat or tamper with. It works by grouping transactions into blocks, which are verified by the network through consensus methods like Proof of Work or Proof of Stake.
 
-Blockchain is useful not only for Bitcoin but also for banking, supply chains, healthcare records, elections, and even “smart contracts” that run automatically.
+While it began with Bitcoin, blockchain today has many applications — from banking and supply chain tracking to healthcare, elections, and smart contracts. However, it still faces challenges such as slow transaction speed, high energy use, regulatory uncertainty, and data privacy issues.
 
-The catch? It can be slow, energy-hungry, and still faces legal and privacy questions. But if these challenges are solved, blockchain could become a backbone of the digital world.
+In short, blockchain has the potential to reshape industries by ensuring trust, transparency, and security — but it’s not a magic bullet, and overcoming its limitations will be key to its future success
 ```
 ## Gemini
 ### Zero Shot
@@ -192,27 +194,27 @@ Beyond cryptocurrencies, blockchain can be used in supply chain management, heal
 ```
 Good morning, class! Today we're going to explore blockchain technology, and I promise it's much simpler than it sounds. Think of blockchain like a shared notebook that everyone in the class can see, but no one can erase what's already written.
 
-### What Exactly Is Blockchain?
+What Exactly Is Blockchain?
 
 Imagine you and your friends keep track of who owes money to whom by writing it down in a special notebook. Instead of one person holding this notebook, everyone gets an identical copy. When someone makes a new transaction, everyone updates their notebook at the same time. That's essentially how blockchain works - it's a digital record book that's shared across many computers.
 
 The "blocks" are like pages in this notebook, and the "chain" connects these pages in order. Each page references the previous one, so if someone tries to change an old page, everyone would notice because it wouldn't match their copies.
 
-### Why Should You Care?
+Why Should You Care?
 
 Blockchain solves a fundamental problem: How do you trust strangers in digital transactions without needing a bank or government to verify everything? It creates trust through mathematics and consensus rather than through institutions.
 
 The key features are straightforward. **Decentralization** means no single entity controls the system - it's like having a group project where everyone has equal say. **Transparency** means all transactions are visible, like posting your grades on a public board. **Immutability** means once something is recorded, it can't be changed - like writing in permanent ink. **Security** comes from advanced mathematics that makes cheating nearly impossible.
 
-### Real-World Applications
+Real-World Applications
 
 Beyond digital money like Bitcoin, blockchain has exciting applications you'll likely encounter in your careers. Companies use it to track products from factory to store, ensuring your organic coffee is actually organic. Hospitals might use it to securely share your medical records between doctors. Some countries are experimenting with blockchain voting to make elections more transparent.
 
-### The Challenges We Face
+The Challenges We Face
 
 Like any new technology, blockchain isn't perfect. It can be slow - imagine if updating that shared notebook required everyone to solve a puzzle first. It also uses a lot of energy, especially older systems. Think of it like having to run a marathon every time you want to write in the notebook.
 
-### Your Takeaway
+Your Takeaway
 
 Blockchain represents a new way of organizing information and trust in our digital world. While the technology is complex underneath, the concept is simple: creating trust and transparency without relying on traditional authorities. As future professionals, understanding this shift in how we handle digital trust will be valuable regardless of your chosen field.
 
@@ -222,31 +224,31 @@ Remember, you don't need to become blockchain experts overnight, but understandi
 ```
 Blockchain technology can be understood through a logical progression of interconnected concepts that build upon each other.
 
-### Starting Point: The Problem
+Starting Point: The Problem
 
 Traditional systems rely on central authorities to verify and record transactions, creating single points of failure and trust issues. This leads to the need for a decentralized solution that can maintain security and trust without central control.
 
-### The Solution: Blockchain Structure
+The Solution: Blockchain Structure
 
 To address this problem, blockchain creates a chain of digital blocks where each block contains transaction records. These blocks are linked chronologically using cryptographic techniques, forming an unbreakable chain where altering one block would require changing all subsequent blocks.
 
-### Building the Foundation: Core Features
+Building the Foundation: Core Features
 
 This structure naturally creates four essential characteristics. First, **decentralization** emerges because the ledger is distributed across multiple network nodes rather than stored in one location. Second, **transparency** results from making all transactions visible to network participants. Third, **immutability** develops because changing recorded data becomes computationally impossible. Fourth, **security** is achieved through cryptographic protection and hash-based block connections.
 
-### Making It Work: The Process
+Making It Work: The Process
 
 For the system to function, transactions must be verified through consensus mechanisms where network participants validate each transaction using methods like Proof of Work or Proof of Stake. Once verified, transactions are grouped into blocks and added to the chain with network-wide agreement required for any modifications.
 
-### Expanding Beyond: Real-World Applications
+Expanding Beyond: Real-World Applications
 
 This foundation enables diverse applications that extend far beyond cryptocurrencies. Financial services benefit from streamlined payments and increased transparency. Supply chains gain end-to-end tracking capabilities. Healthcare systems can securely manage patient records. Voting systems become more transparent and fraud-resistant. Smart contracts automate trustless transactions.
 
-### Facing Reality: Current Limitations
+Facing Reality: Current Limitations
 
 However, practical implementation reveals significant challenges. Scalability issues arise because processing many transactions is slow and energy-intensive. Regulatory uncertainties create adoption barriers. Privacy concerns emerge from the transparent nature of records. The beneficial immutability feature becomes problematic when incorrect data enters the system.
 
-### Looking Forward: Future Potential
+Looking Forward: Future Potential
 
 Despite these challenges, the logical progression suggests that blockchain represents a transformative shift in data and transaction management. Addressing current limitations through continued research and innovation positions blockchain as a foundational technology for future digital systems.
 ```
