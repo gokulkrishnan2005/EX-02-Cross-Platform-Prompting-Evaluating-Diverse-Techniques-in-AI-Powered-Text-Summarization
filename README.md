@@ -190,7 +190,7 @@ Beyond cryptocurrencies, blockchain can be used in supply chain management, heal
 ```
 
 ## Claude
-### Zero Shot
+### Role Based
 ```
 Good morning, class! Today we're going to explore blockchain technology, and I promise it's much simpler than it sounds. Think of blockchain like a shared notebook that everyone in the class can see, but no one can erase what's already written.
 
